@@ -1,0 +1,34 @@
+# Original television corpus and SQLite database remain available locally.
+/data_collection/data/tv.sqlite*
+/data_collection/data/tv_inventories/
+/data_collection/data/tv_transcripts/
+/data_collection/data/tv_subtitles/
+
+# Local course materials, dependency installations and execution caches.
+/analysis/sources/
+/analysis/deps/
+/analysis/jupyter/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.claude/
+.codex/
+
+# Duplicate delivery bundles, compiler by-products and cloud UI screenshots.
+*.zip
+*.aux
+*.log
+*.out
+*.synctex.gz
+/data_collection/audit/*.jpg
+/data_collection/audit/*.png
+
+# Credentials and local environment settings.
+.env
+.env.*
+credentials*.json
+*service-account*.json
+*.pem
+*.key

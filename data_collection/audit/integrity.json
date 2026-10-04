@@ -1,0 +1,14 @@
+{
+  "verified_transcript_files": 114823,
+  "verified_original_srt_files": 62497,
+  "derived_cache_files": 0,
+  "compressed_source_bytes": 1805837677,
+  "errors": [],
+  "data_folder_bytes": 2255625747,
+  "local_tv_export_bytes": {
+    "bigquery_upload\\tv_broadcasts.jsonl.gz": 12128977,
+    "bigquery_upload\\tv_daily_coverage.jsonl.gz": 104593,
+    "bigquery_upload\\tv_mention_contexts.jsonl.gz": 32117404
+  },
+  "verified_at": "2026-10-03T18:32:35.459447+00:00"
+}

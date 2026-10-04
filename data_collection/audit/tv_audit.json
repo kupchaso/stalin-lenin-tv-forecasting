@@ -1,0 +1,15 @@
+{
+  "broadcasts_by_status": {
+    "200": 114823,
+    "404": 79
+  },
+  "inventories_by_status": {
+    "200": 5374,
+    "404": 110
+  },
+  "raw_texts_saved_as_gzip": true,
+  "count_definition": "Surname-token candidates in ASR transcripts; not disambiguated person mentions",
+  "news_program_filter": "Pending; all archived broadcasts retained",
+  "day_timezone": "Europe/Moscow",
+  "exported_at": "2026-10-03T17:58:32.318191+00:00"
+}

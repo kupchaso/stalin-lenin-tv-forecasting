@@ -1,0 +1,97 @@
+[
+  {
+    "name": "broadcast_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "channel",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "day",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "start_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "program",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "title",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "runtime_seconds",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "transcript_status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "word_count",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "stalin_candidates",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "lenin_candidates",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "trump_candidates",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "transcript_sha256",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "transcript_url",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "retrieved_at",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "news_filter_status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "person_filter_status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "source_format",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "source_sha256",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

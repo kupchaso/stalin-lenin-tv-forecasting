@@ -1,0 +1,40 @@
+{
+  "verified_at": "2026-10-03T17:39:48.671Z",
+  "project": "forecasting-mentions-second",
+  "dataset": "forecasting_mentions",
+  "results": [
+    {
+      "table_name": "tv_broadcasts",
+      "rows_loaded": "114895",
+      "first_day": "2023-01-01",
+      "last_day": "2026-10-02",
+      "available_transcripts": "114816",
+      "missing_transcripts": "79",
+      "stalin_candidates": "12032",
+      "lenin_candidates": "7650",
+      "trump_candidates": "306922"
+    },
+    {
+      "table_name": "tv_daily_coverage",
+      "rows_loaded": "5484",
+      "first_day": "2023-01-01",
+      "last_day": "2026-10-02",
+      "available_transcripts": "114816",
+      "missing_transcripts": "79",
+      "stalin_candidates": "12032",
+      "lenin_candidates": "7650",
+      "trump_candidates": "306922"
+    },
+    {
+      "table_name": "tv_mention_contexts",
+      "rows_loaded": "326604",
+      "first_day": "2023-01-01",
+      "last_day": "2026-10-02",
+      "available_transcripts": null,
+      "missing_transcripts": null,
+      "stalin_candidates": "12032",
+      "lenin_candidates": "7650",
+      "trump_candidates": "306922"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "project": "forecasting-mentions-project",
+  "next_project": "forecasting-mentions-second",
+  "state": "selected_source_data_loaded_requires_research_cleaning",
+  "web_resume_date": "2026-10-03",
+  "web_loaded_last_seen_utc": "2026-10-02T23:47:00Z",
+  "web_candidate_tokens_saved": 3882661,
+  "web_article_urls_saved": 1122081,
+  "web_contexts_materialized": false,
+  "tv_transcripts_saved": 114823,
+  "tv_pending_transcripts": 0,
+  "tv_transcripts_not_found": 79,
+  "tv_bigquery_upload": "complete",
+  "dataset": "forecasting_mentions",
+  "start_date": "2023-01-01",
+  "end_date_exclusive": "2026-10-03",
+  "day_timezone": "Europe/Moscow",
+  "people": [
+    "stalin",
+    "lenin",
+    "trump"
+  ],
+  "tv_channels": [
+    "1TV",
+    "NTV",
+    "RUSSIA1",
+    "RUSSIA24"
+  ],
+  "web_language": "ru",
+  "provisional_russian_outlet_panel": [
+    "ria.ru",
+    "tass.ru",
+    "rg.ru",
+    "rbc.ru",
+    "kommersant.ru",
+    "interfax.ru",
+    "iz.ru",
+    "lenta.ru",
+    "gazeta.ru",
+    "vedomosti.ru",
+    "aif.ru",
+    "mk.ru",
+    "fontanka.ru",
+    "1tv.ru",
+    "ntv.ru",
+    "vesti.ru",
+    "ren.tv",
+    "tvc.ru"
+  ],
+  "count_status": "surname_candidates_require_person_disambiguation",
+  "tv_scope": "All archived broadcasts retained; news/program filtering requires metadata audit",
+  "web_scope": "Russian-language candidate records retained; source panel defines the domestic Russian subset",
+  "active_project": "forecasting-mentions-second",
+  "tv_retry_completed_at": "2026-10-03T15:53:06.727350+00:00",
+  "tv_export_last_day_msk": "2026-10-02",
+  "tv_missing_inventory_days": 110,
+  "tv_text_source_formats": [
+    "txt",
+    "srt"
+  ],
+  "tv_cloud_verified_at": "2026-10-03T17:39:48.671Z",
+  "tv_cloud_tables": [
+    "tv_broadcasts",
+    "tv_daily_coverage",
+    "tv_mention_contexts"
+  ],
+  "local_storage_layout": "original_txt_and_srt_with_compressed_exports",
+  "local_cleanup_audit": "audit/local_cleanup.json",
+  "local_cleanup_completed_at": "2026-10-03T18:32:35.459447+00:00",
+  "local_cleanup_removed_bytes": 1012493844,
+  "local_integrity_verified_transcripts": 114823
+}

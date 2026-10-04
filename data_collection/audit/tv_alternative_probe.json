@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1TV_20250515_000000_Novosti",
+    "suffix": ".transcript.srt",
+    "status": 200
+  },
+  {
+    "id": "1TV_20250515_000000_Novosti",
+    "suffix": ".stt.latest_long.json",
+    "status": 404
+  },
+  {
+    "id": "1TV_20250515_000000_Novosti",
+    "suffix": ".transcript.en.txt",
+    "status": 200
+  },
+  {
+    "id": "1TV_20261001_000000_Novosti",
+    "suffix": ".transcript.srt",
+    "status": 200
+  },
+  {
+    "id": "1TV_20261001_000000_Novosti",
+    "suffix": ".stt.latest_long.json",
+    "status": 404
+  },
+  {
+    "id": "1TV_20261001_000000_Novosti",
+    "suffix": ".transcript.en.txt",
+    "status": 404
+  },
+  {
+    "id": "NTV_20250515_033000_Utro",
+    "suffix": ".transcript.srt",
+    "status": 200
+  },
+  {
+    "id": "NTV_20250515_033000_Utro",
+    "suffix": ".stt.latest_long.json",
+    "status": 404
+  },
+  {
+    "id": "NTV_20250515_033000_Utro",
+    "suffix": ".transcript.en.txt",
+    "status": 200
+  },
+  {
+    "id": "NTV_20261001_030000",
+    "suffix": ".transcript.srt",
+    "status": 200
+  },
+  {
+    "id": "NTV_20261001_030000",
+    "suffix": ".stt.latest_long.json",
+    "status": 404
+  },
+  {
+    "id": "NTV_20261001_030000",
+    "suffix": ".transcript.en.txt",
+    "status": 404
+  },
+  {
+    "id": "RUSSIA1_20250515_000000_Vesti",
+    "suffix": ".transcript.srt",
+    "status": 200
+  },
+  {
+    "id": "RUSSIA1_20250515_000000_Vesti",
+    "suffix": ".stt.latest_long.json",
+    "status": 404
+  },
+  {
+    "id": "RUSSIA1_20250515_000000_Vesti",
+    "suffix": ".transcript.en.txt",
+    "status": 200
+  },
+  {
+    "id": "RUSSIA1_20261001_000000_Vesti",
+    "suffix": ".transcript.srt",
+    "status": 200
+  },
+  {
+    "id": "RUSSIA1_20261001_000000_Vesti",
+    "suffix": ".stt.latest_long.json",
+    "status": 404
+  },
+  {
+    "id": "RUSSIA1_20261001_000000_Vesti",
+    "suffix": ".transcript.en.txt",
+    "status": 404
+  },
+  {
+    "id": "RUSSIA24_20250515_000000_RIK_Rossiya_24",
+    "suffix": ".transcript.srt",
+    "status": 200
+  },
+  {
+    "id": "RUSSIA24_20250515_000000_RIK_Rossiya_24",
+    "suffix": ".stt.latest_long.json",
+    "status": 404
+  },
+  {
+    "id": "RUSSIA24_20250515_000000_RIK_Rossiya_24",
+    "suffix": ".transcript.en.txt",
+    "status": 200
+  },
+  {
+    "id": "RUSSIA24_20261001_030000_Vesti",
+    "suffix": ".transcript.srt",
+    "status": 200
+  },
+  {
+    "id": "RUSSIA24_20261001_030000_Vesti",
+    "suffix": ".stt.latest_long.json",
+    "status": 404
+  },
+  {
+    "id": "RUSSIA24_20261001_030000_Vesti",
+    "suffix": ".transcript.en.txt",
+    "status": 404
+  }
+]

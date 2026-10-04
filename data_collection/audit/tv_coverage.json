@@ -1,0 +1,192 @@
+{
+  "checked_at": "2026-10-03T15:53:04.791711+00:00",
+  "day_timezone": "Europe/Moscow",
+  "channels": [
+    {
+      "channel": "1TV",
+      "available": 19958,
+      "first_start_local": "2023-01-01 10:00:00",
+      "last_start_local": "2026-10-03 01:50:00"
+    },
+    {
+      "channel": "NTV",
+      "available": 14130,
+      "first_start_local": "2023-01-01 05:05:00",
+      "last_start_local": "2026-10-03 00:20:00"
+    },
+    {
+      "channel": "RUSSIA1",
+      "available": 17579,
+      "first_start_local": "2023-01-01 10:30:00",
+      "last_start_local": "2026-10-02 21:10:00"
+    },
+    {
+      "channel": "RUSSIA24",
+      "available": 63156,
+      "first_start_local": "2023-01-01 03:00:00",
+      "last_start_local": "2026-10-03 02:05:00"
+    }
+  ],
+  "by_year_and_status": [
+    {
+      "channel": "1TV",
+      "year": "2023",
+      "status": "200",
+      "broadcasts": 4578
+    },
+    {
+      "channel": "1TV",
+      "year": "2024",
+      "status": "200",
+      "broadcasts": 5134
+    },
+    {
+      "channel": "1TV",
+      "year": "2025",
+      "status": "200",
+      "broadcasts": 5720
+    },
+    {
+      "channel": "1TV",
+      "year": "2026",
+      "status": "200",
+      "broadcasts": 4526
+    },
+    {
+      "channel": "1TV",
+      "year": "2026",
+      "status": "404",
+      "broadcasts": 2
+    },
+    {
+      "channel": "NTV",
+      "year": "2023",
+      "status": "200",
+      "broadcasts": 3869
+    },
+    {
+      "channel": "NTV",
+      "year": "2023",
+      "status": "404",
+      "broadcasts": 2
+    },
+    {
+      "channel": "NTV",
+      "year": "2024",
+      "status": "200",
+      "broadcasts": 3600
+    },
+    {
+      "channel": "NTV",
+      "year": "2024",
+      "status": "404",
+      "broadcasts": 2
+    },
+    {
+      "channel": "NTV",
+      "year": "2025",
+      "status": "200",
+      "broadcasts": 3750
+    },
+    {
+      "channel": "NTV",
+      "year": "2026",
+      "status": "200",
+      "broadcasts": 2911
+    },
+    {
+      "channel": "RUSSIA1",
+      "year": "2023",
+      "status": "200",
+      "broadcasts": 4192
+    },
+    {
+      "channel": "RUSSIA1",
+      "year": "2024",
+      "status": "200",
+      "broadcasts": 4502
+    },
+    {
+      "channel": "RUSSIA1",
+      "year": "2025",
+      "status": "200",
+      "broadcasts": 5082
+    },
+    {
+      "channel": "RUSSIA1",
+      "year": "2025",
+      "status": "404",
+      "broadcasts": 17
+    },
+    {
+      "channel": "RUSSIA1",
+      "year": "2026",
+      "status": "200",
+      "broadcasts": 3803
+    },
+    {
+      "channel": "RUSSIA1",
+      "year": "2026",
+      "status": "404",
+      "broadcasts": 2
+    },
+    {
+      "channel": "RUSSIA24",
+      "year": "2023",
+      "status": "200",
+      "broadcasts": 16544
+    },
+    {
+      "channel": "RUSSIA24",
+      "year": "2024",
+      "status": "200",
+      "broadcasts": 16204
+    },
+    {
+      "channel": "RUSSIA24",
+      "year": "2024",
+      "status": "404",
+      "broadcasts": 48
+    },
+    {
+      "channel": "RUSSIA24",
+      "year": "2025",
+      "status": "200",
+      "broadcasts": 16573
+    },
+    {
+      "channel": "RUSSIA24",
+      "year": "2026",
+      "status": "200",
+      "broadcasts": 13835
+    },
+    {
+      "channel": "RUSSIA24",
+      "year": "2026",
+      "status": "404",
+      "broadcasts": 6
+    }
+  ],
+  "by_source_format": [
+    {
+      "source_format": "srt",
+      "available": 62497
+    },
+    {
+      "source_format": "txt",
+      "available": 52326
+    }
+  ],
+  "inventories_by_status": [
+    {
+      "status": "200",
+      "channel_days": 5374
+    },
+    {
+      "status": "404",
+      "channel_days": 110
+    }
+  ],
+  "empty_transcripts": 0,
+  "caveat": "Dates are observed endpoints, not proof of uninterrupted coverage or news-only programming."
+}

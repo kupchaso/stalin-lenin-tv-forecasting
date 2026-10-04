@@ -1,0 +1,12 @@
+{
+  "rows": 19717,
+  "blocks": 344,
+  "summary_job": "forecasting-mentions-second:US.job_8ZVfWeqyc1Ud81PtMWzHncUF47X4",
+  "temporary_source": "forecasting-mentions-second._d96ed6f14bcb49f596590846f09b8d6e76617b26.anoncc32ff6d11e0e891e5026e15af2640b174d58902d2f470e27aa1c711d6537eb5",
+  "exported_at": "2026-10-03T19:07:25.763Z",
+  "definition": "All candidate rows at earliest observed candidate-containing snapshot per URL; pos is an article decile and is not used for deduplication",
+  "timezone": "Europe/Moscow",
+  "gzip_bytes": 238713,
+  "first_day": "2023-01-01",
+  "last_day": "2026-10-02"
+}

@@ -1,0 +1,27 @@
+{
+  "start_day": "2023-01-01",
+  "end_day": "2026-10-02",
+  "timezone": "Europe/Moscow",
+  "top_scope": "all",
+  "rank_end": "2026-10-02",
+  "top_sources": [
+    "Веб: ria.ru",
+    "Веб: tass.ru",
+    "ТВ: Россия 24",
+    "ТВ: Россия 1",
+    "Веб: lenta.ru"
+  ],
+  "web_daily_rows": 19717,
+  "tv_daily_rows": 5484,
+  "sources": 21,
+  "totals_conserved_for_day_week_month": true,
+  "missing_days_preserved": true,
+  "web_definition": "All candidate rows in earliest observed candidate-containing URL snapshot; pos is a decile and is not a deduplication key",
+  "person_disambiguation": "not_done",
+  "news_program_filter": "not_done",
+  "tv_candidate_totals": {
+    "stalin": 12032,
+    "lenin": 7650,
+    "trump": 306922
+  }
+}

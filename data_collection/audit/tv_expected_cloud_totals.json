@@ -1,0 +1,10 @@
+{
+  "rows": 114895,
+  "available": 114816,
+  "missing": 79,
+  "candidates": {
+    "stalin": 12032,
+    "lenin": 7650,
+    "trump": 306922
+  }
+}

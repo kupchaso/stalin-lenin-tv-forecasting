@@ -1,0 +1,26 @@
+{
+  "scope": "C:\\Users\\user\\Documents\\afgan\\forecasting_mentions",
+  "started_at": "2026-10-03T17:48:43.261169+00:00",
+  "groups": {
+    "uncompressed_export_duplicates": {
+      "files": 3,
+      "bytes": 283919918
+    },
+    "derived_srt_text_duplicates": {
+      "files": 62497,
+      "bytes": 728534765
+    },
+    "duplicate_probe_sample": {
+      "files": 1,
+      "bytes": 10734
+    },
+    "python_bytecode_cache": {
+      "files": 3,
+      "bytes": 28427
+    }
+  },
+  "removed_bytes": 1012493844,
+  "removed_files": 62504,
+  "state": "complete",
+  "finished_at": "2026-10-03T18:03:47.651683+00:00"
+}

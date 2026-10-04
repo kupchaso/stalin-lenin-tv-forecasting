@@ -1,0 +1,46 @@
+{
+  "verified_at": "2026-10-03T17:58:36.408733+00:00",
+  "syntax_valid": true,
+  "cache_read_probes": [
+    {
+      "format": "txt",
+      "id": "RUSSIA1_20230103_060000_Vesti",
+      "recovered_without_network": true
+    },
+    {
+      "format": "srt",
+      "id": "1TV_20230104_193000_Segodnya_vecherom",
+      "recovered_without_network": true,
+      "derived_text_cache_absent": true
+    }
+  ],
+  "export_content_identical_to_uploaded_files": true,
+  "exports": {
+    "tv_broadcasts": {
+      "rows": 114895,
+      "first_day": "2023-01-01",
+      "last_day": "2026-10-02",
+      "compressed_bytes": 12128977,
+      "source_sha256": "02c8d15d272b749088b5420efae099a240607492798a3777620f2ea327c101c4"
+    },
+    "tv_daily_coverage": {
+      "rows": 5484,
+      "first_day": "2023-01-01",
+      "last_day": "2026-10-02",
+      "compressed_bytes": 104593,
+      "source_sha256": "5494f58aca4c4611bd8452ca54f1e5785697809b39538dde5b77cc0c1d81db4e"
+    },
+    "tv_mention_contexts": {
+      "rows": 326604,
+      "first_day": "2023-01-01",
+      "last_day": "2026-10-02",
+      "compressed_bytes": 32117404,
+      "source_sha256": "ecab4bfca10b62616ef0a21f1f480b42216ef4a7d80e934d285207e233de933a"
+    }
+  },
+  "original_transcripts_verified": 114823,
+  "original_srt_verified": 62497,
+  "integrity_errors": [],
+  "data_folder_bytes_after": 2255625747,
+  "completed_at": "2026-10-03T18:32:35.459447+00:00"
+}

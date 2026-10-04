@@ -1,0 +1,37 @@
+[
+  {
+    "name": "broadcast_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "channel",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "day",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "person",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "offset",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "matched",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "context",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

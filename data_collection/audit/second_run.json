@@ -1,0 +1,33 @@
+{
+  "state": "web_complete_tv_local_complete_cloud_upload_pending",
+  "project": "forecasting-mentions-second",
+  "web_resume_date": "2025-08-24",
+  "web_end_date_exclusive": "2026-10-03",
+  "tv_resume_pending": 91341,
+  "started_at": "2026-10-03T12:13:48.827417+00:00",
+  "cloud_pipeline_sql": "sql/06_collect_second_project.sql",
+  "tv_collection_exec_session": 90721,
+  "billing_enabled_by_agent": false,
+  "existing_web_tables_transferred": true,
+  "gal_catalog_loaded": true,
+  "cloud_pipeline_url": "https://console.cloud.google.com/bigquery?project=forecasting-mentions-second&ws=!1m5!1m4!1m3!1sforecasting-mentions-second!2sjob_NShNgqJhAa167z0NgC-XBbiied6-!3sUS",
+  "cloud_status_verified_at": "2026-10-03",
+  "cloud_pipeline_status": "SUCCESS",
+  "cloud_statements_processed": 65,
+  "web_candidate_tokens": 3882661,
+  "web_unique_urls": 1122081,
+  "web_first_seen_at": "2023-01-01T00:02:00Z",
+  "web_last_seen_at": "2026-10-02T23:47:00Z",
+  "tv_transcripts_saved": 114823,
+  "tv_transcripts_not_found": 79,
+  "tv_bigquery_upload": "complete",
+  "tv_finalize_exec_session": 44807,
+  "tv_pending_transcripts": 0,
+  "tv_retry_completed_at": "2026-10-03T15:53:06.727350+00:00",
+  "tv_cloud_verified_at": "2026-10-03T17:39:48.671Z",
+  "tv_cloud_tables": [
+    "tv_broadcasts",
+    "tv_daily_coverage",
+    "tv_mention_contexts"
+  ]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "name": "channel",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "day",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "listed_broadcasts",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "available_transcripts",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "missing_transcripts",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "pending_or_error_transcripts",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "observed_runtime_seconds",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "observed_word_count",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "stalin_candidates",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "lenin_candidates",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "trump_candidates",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "inventory_status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "coverage_status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "state": "stopped_at_user_request",
+  "cached_transcripts_recovered": 61,
+  "corrupt_cache_files": [],
+  "broadcasts_by_status": {
+    "None": 91341,
+    "200": 23398,
+    "404": 163
+  },
+  "stopped_at": "2026-10-03T11:57:58.128246+00:00"
+}
